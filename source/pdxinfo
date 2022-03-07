@@ -1,0 +1,6 @@
+name=helloworld
+author=epohs
+description=First test
+bundleID=com.epohs.hw1
+version=1.0
+buildNumber=1
